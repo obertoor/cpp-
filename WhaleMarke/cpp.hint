@@ -1,0 +1,5 @@
+// 提示文件帮助 Visual Studio IDE 解释 Visual C++ 标识符,
+// 如函数和宏的名称。
+// 有关详细信息，请参见 https://go.microsoft.com/fwlink/?linkid=865984
+#define make_login(T, YPE, cond) static void T##YPE##_Login() { get_username_passwd if (cond) { T##YPE##_Interface(); return ; } failureMessage();}
+#define make_all(T, YPE) static void all##T##YPE##s() { print##T##YPE##s(); successMessage(); }

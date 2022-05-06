@@ -1,0 +1,2 @@
+D:\CPP\project\WhaleMarke\WhaleMarke\Debug\WhaleMarke.exe
+D:\CPP\project\WhaleMarke\WhaleMarke\Debug\WhaleMarke.pdb
